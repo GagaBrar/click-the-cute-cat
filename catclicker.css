@@ -1,0 +1,20 @@
+body {
+    background-image: url("http://www.hd-freewallpapers.com/latest-wallpapers/cat-desktop-wallpapers-download.jpg");
+}
+
+#cutecat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-image: url("border.png") 30 round;
+}
+h1{
+    font-family: 'Comic Sans MS', sans-serif;
+    font-weight: 300;
+}
+p{
+    font-family: "Arial Black", sans-serif;
+}
+.heading {
+    text-align: center;
+}
