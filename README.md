@@ -1,6 +1,6 @@
-# click-the-cute-cat
-** There is a cute cat waiting inside to let you click on her face, on her tongue.
-** Don't be afraid she is very cute and friendly.
+# Click the Cat
+***There is a cute cat waiting inside to let you click on her face, on her tongue.
+***Don't be afraid she is very cute and friendly.
 
 ## Built
 * Used some basic HTML , CSS to make this cat-clicker.
